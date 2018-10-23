@@ -8,5 +8,9 @@ namespace IdeaHelperClass
 {
     public class IdeaHelperClass
     {
-    }
+      public static void secondCommit()
+      {
+
+      }
+   }
 }
