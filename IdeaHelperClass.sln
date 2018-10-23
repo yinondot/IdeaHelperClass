@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27428.2027
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IdeaHelperClass", "IdeaHelperClass\IdeaHelperClass.csproj", "{C8AA31CB-76D8-43C5-98D0-19F6A53B3400}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IdeaHelperClassTests", "IdeaHelperClassTests\IdeaHelperClassTests.csproj", "{19542A94-04B2-4E0A-A325-AD66C53F4D5E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{C8AA31CB-76D8-43C5-98D0-19F6A53B3400}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C8AA31CB-76D8-43C5-98D0-19F6A53B3400}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C8AA31CB-76D8-43C5-98D0-19F6A53B3400}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19542A94-04B2-4E0A-A325-AD66C53F4D5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19542A94-04B2-4E0A-A325-AD66C53F4D5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19542A94-04B2-4E0A-A325-AD66C53F4D5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19542A94-04B2-4E0A-A325-AD66C53F4D5E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

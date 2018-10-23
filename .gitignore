@@ -328,3 +328,7 @@ ASALocalRun/
 
 # MFractors (Xamarin productivity tool) working folder 
 .mfractor/
+/IdeaHelperClassTests/Properties/AssemblyInfo.cs
+/IdeaHelperClassTests/IdeaHelperClassTests.cs
+/IdeaHelperClassTests/IdeaHelperClassTests.csproj
+/IdeaHelperClassTests
