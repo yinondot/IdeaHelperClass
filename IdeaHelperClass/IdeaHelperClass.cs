@@ -24,6 +24,12 @@ namespace IdeaHelperClass
             obj = null;
          }
       }
-
+      public static string GetProjectPath()
+      {
+         int i;
+         return "";
+      }
    }
+
+  
 }
